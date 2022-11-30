@@ -55,7 +55,7 @@ export const Resultshow = () => {
       </h1>
       <div className="flex -mt-24">
         <div className="w-2/5 ml-4">
-          <img src="./resultAnalysis.gif" alt="resultAnalysis" />
+          <img src="./resultAnalysis.gif" alt="resultAnalysis" width="400px" />
         </div>
         <div className="w-2/5  mt-24 p-8">
           <h1 className="text-2xl text-red-600">{feedback}</h1>
