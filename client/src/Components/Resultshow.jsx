@@ -39,7 +39,7 @@ export const Resultshow = () => {
       );
     } else {
       setFeedback(
-        `Sorry!, You are failed to complete the Test! You need to Work Hard! and Keep Practicing  ${UserName}`
+        `Sorry!, You have failed to complete the Test! You need to Work Hard! and Keep Practicing  ${UserName}`
       );
     }
 
